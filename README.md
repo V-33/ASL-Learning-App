@@ -127,4 +127,5 @@ asl-learning-app/
 ├── README.md
 └── .gitignore
 > [!NOTE]
-> This project focuses on UI/UX and interaction design. Gesture recognition is simulated but the architecture supports real-time implementation.
+> This project focuses on UI/UX and interaction design.
+> Gesture recognition is simulated but the architecture supports real-time implementation.
