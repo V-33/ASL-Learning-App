@@ -71,6 +71,7 @@ This demonstrates different interaction paradigms as per Human-Computer Interact
 ---
 
 ## 📂 Project Structure
+```
 asl-learning-app/
 │
 ├── lib/
@@ -99,7 +100,7 @@ asl-learning-app/
 │   │   │
 │   │   ├── learning/
 │   │   │   ├── learn_by_seeing_screen.dart
-│   │   │   ├── learn_by_seeing_alt_screen.dart   // Alternate UI design
+│   │   │   ├── learn_by_seeing_alt_screen.dart
 │   │   │   └── learn_doing_screen.dart
 │   │   │
 │   │   └── profile/
@@ -125,6 +126,5 @@ asl-learning-app/
 ├── pubspec.lock
 ├── README.md
 └── .gitignore
-
 > [!NOTE]
 > This project focuses on UI/UX and interaction design. Gesture recognition is simulated but the architecture supports real-time implementation.
